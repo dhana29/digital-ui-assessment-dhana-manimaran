@@ -1,0 +1,52 @@
+@font-face {
+	font-family: 'futura-pt';
+	src: url('/assets/font/FuturaPT-Demi.woff2') format('woff2'), url('/assets/font/FuturaPT-Demi.woff') format('woff');
+	font-display: swap;
+	font-style: normal;
+	font-weight: 600;
+}
+
+@font-face {
+	font-family: 'futura-pt';
+	src: url('/assets/font/FuturaPT-Bold.woff2') format('woff2'), url('/assets/font/FuturaPT-Bold.woff') format('woff');
+	font-display: swap;
+	font-style: normal;
+	font-weight: 700;
+}
+
+@font-face {
+	font-family: 'Roboto';
+	src: local('Roboto'), local('Roboto-Regular'), url('/assets/font/Roboto-Regular.woff2') format('woff2'),
+		url('/assets/font/Roboto-Regular.woff') format('woff');
+	font-display: swap;
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'Roboto';
+	src: local('Roboto Italic'), local('Roboto-Italic'), url('/assets/font/Roboto-Italic.woff2') format('woff2'),
+		url('/assets/font/Roboto-Italic.woff') format('woff');
+	font-display: swap;
+	font-style: italic;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'Roboto';
+	src: local('Roboto Bold'), local('Roboto-Bold'), url('/assets/font/Roboto-Bold.woff2') format('woff2'),
+		url('/assets/font/Roboto-Bold.woff') format('woff');
+	font-display: swap;
+	font-style: normal;
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: 'Roboto';
+	src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'),
+		url('/assets/font/Roboto-BoldItalic.woff2') format('woff2'),
+		url('/assets/font/Roboto-BoldItalic.woff') format('woff');
+	font-style: italic;
+	font-weight: bold;
+	font-display: swap;
+}
